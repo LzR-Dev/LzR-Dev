@@ -40,16 +40,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LzR-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LzR-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
----
-
 ### 📫 Contato
 
 - ✉️ Email: eliezer-dev@outlook.com
@@ -57,6 +47,16 @@
 - 💼 LinkedIn: Em breve!
 - 🌐 Em breve: portfólio pessoal
 - 🧠 Sempre aberto a ideias e collabs!
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LzR-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LzR-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
 
 ---
 
