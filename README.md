@@ -12,7 +12,7 @@
 - 🎯 Focado em **desenvolvimento web**
 - 🧠 Estudando e aplicando **React, Next.js, Node.js, TypeScript e JavaScript**
 - 🔧 Automatizo tudo que posso (inclusive minha vida financeira 😅)
-- 🎮 Gamer nas horas vagas e curioso em tempo integral
+  
 
 > _"Desenvolver é resolver problemas — mas com estilo, clareza e aquele toque pessoal que só um dev apaixonado entrega."_
 
@@ -128,4 +128,4 @@
 
 ---
 
-<p align="center">Feito com ❤️ e café por Eliezer</p>
+<p align="center">Feito com muito café por Eliezer</p>
