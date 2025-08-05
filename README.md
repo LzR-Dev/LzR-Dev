@@ -40,6 +40,18 @@
 
 ---
 
+### 📫 Contato
+
+- ✉️ Email: eliezer-dev@outlook.com
+- 📷 Instagram: [@eliezerdeliz](https://www.instagram.com/eliezerdeliz)
+- 💼 LinkedIn: Em breve!
+- 🌐 Em breve: portfólio pessoal
+- 🧠 Sempre aberto a ideias e collabs!
+
+---
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -59,16 +71,5 @@
   />
 
 </p>
----
-
-### 📫 Contato
-
-- ✉️ Email: eliezer-dev@outlook.com
-- 📷 Instagram: [@eliezerdeliz](https://www.instagram.com/eliezerdeliz)
-- 💼 LinkedIn: Em breve!
-- 🌐 Em breve: portfólio pessoal
-- 🧠 Sempre aberto a ideias e collabs!
-
----
 
 <p align="center">Feito com ❤️ e café por Eliezer</p>
