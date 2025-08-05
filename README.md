@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 👨🏻‍💻 Sobre mim
 
 - 🎯 Focado em **desenvolvimento web**
 - 🧠 Estudando e aplicando **React, Next.js, Node.js, TypeScript e JavaScript**
