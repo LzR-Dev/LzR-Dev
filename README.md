@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Eliezer</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Web Fullstack</strong> <br/>
-Olá, eu sou o Eliezer 🚀 Desenvolvedor Web Fullstack, 
+  <strong>Desenvolvedor Fullstack</strong> <br/>
+Olá, eu sou o Eliezer 🚀 Desenvolvedor Fullstack, 
 Atualmente estudo e desenvolvo com Node.js, React, TypeScript, Next.js e JavaScript, sempre buscando novas tecnologias para elevar o nível dos meus projetos.
 Apaixonado por programação, automação e games, acredito que aprender algo novo todos os dias é o que mantém a criatividade viva.
 </p>
