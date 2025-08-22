@@ -40,7 +40,7 @@ Apaixonado por programação, automação e games, acredito que aprender algo no
 
 | Projeto         | Descrição                                                        | Tecnologias          |
 | --------------- | ---------------------------------------------------------------- | -------------------- |
-| **Em breve...** | Novos projetos web fullstack com Next.js e Node.js estão por vir | Fica de olho aqui 👀 |
+| **Em breve...** | Novos projetos fullstack com Next.js e Node.js estão por vir     | Fica de olho aqui 👀 |
 
 ---
 
