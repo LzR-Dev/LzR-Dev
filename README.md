@@ -60,7 +60,7 @@ Apaixonado por programação, automação e games, acredito que aprender algo no
 - ✉️ Email: **eliezer-dev@outlook.com**
 - 📷 Instagram: [@eliezerdeliz](https://www.instagram.com/eliezerdeliz)
 - 💼 LinkedIn: _Em breve!_
-- 🌐 Portfólio pessoal: _Em breve!_
+- 🌐 Portfólio pessoal: [LzR-DeV](https://eliezer-lzrdev-rho-drab-85.vercel.app/)
 - 🧠 Sempre aberto a ideias e collabs!
 
 ---
