@@ -13,7 +13,7 @@ Apaixonado por programação, automação e games, acredito que aprender algo no
 
 - 🎯 Focado em **desenvolvimento web**
 - 🧠 Estudando e aplicando **React, Next.js, Node.js, TypeScript e JavaScript**
-- 🔧 Automatizo tudo que posso (inclusive minha vida financeira 😅)
+- 🔧 Automatizo tudo que posso.
 
 > _"Desenvolver é resolver problemas — mas com estilo, clareza e aquele toque pessoal que só um dev apaixonado entrega."_
 
