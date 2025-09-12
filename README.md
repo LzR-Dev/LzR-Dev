@@ -40,7 +40,7 @@ Apaixonado por programação, automação e games, acredito que aprender algo no
 
 | Projeto         | Descrição                                                        | Tecnologias          |
 | --------------- | ---------------------------------------------------------------- | -------------------- |
-| **Em breve...** | Novos projetos fullstack com Next.js e Node.js estão por vir     | Fica de olho aqui 👀 |
+| **LzR-Store**   | Vitrine de produtos simples com HTML, CSS e JS.                  |     <img align="left" alt="HTML" title="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img align="left" alt="CSS" title="CSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img align="left" alt="JavaScript" title="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  |
 
 ---
 
